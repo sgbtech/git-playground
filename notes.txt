@@ -1,0 +1,4 @@
+My startup testing using git & github.
+
+Idea is to use as much as possible to learn to be proficient using git and github.
+
