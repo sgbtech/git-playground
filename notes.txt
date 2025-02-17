@@ -2,3 +2,5 @@ My startup testing using git & github.
 
 Idea is to use as much as possible to learn to be proficient using git and github.
 
+some more changes whilst practacing with git and what it does.
+
